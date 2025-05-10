@@ -24,7 +24,7 @@
   - 박건우: https://github.com/exkeys
   - 서민재: https://github.com/minjae-488
 
-## 3교지 - 프로젝트 계획 세우기
+## 3교시 - 프로젝트 계획 세우기
 - 프로젝트 리포지토리 만들기
 - README.md에 프로젝트 개요 작성하기
 - PRD(Product Requirements Document) 작성하기
